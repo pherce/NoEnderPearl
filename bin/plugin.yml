@@ -1,0 +1,10 @@
+author: pherce
+name: NoEnderPearl
+main: me.pherce.NoEnderPearl.NoEnderPearl
+version: 1.0
+description: Blocks ender pearls without permission node.
+
+permissions:
+    enderpearl.grant:
+        description: Grants this user the ability to use ender pearls.
+        default: false
